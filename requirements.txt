@@ -1,0 +1,7 @@
+pip intall - r requirements.txt
+
+python 3.11
+pandas 3.11
+Numpy 3.11
+Matplotlib 3.11 
+Searbon 3
