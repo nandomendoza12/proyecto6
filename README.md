@@ -24,6 +24,7 @@ Columna Descripción Tipo de Dato Notas de Transformación Churn_Binario Indicad
 Incluso esta el dasborhd en la misma 
 Nombre: Inventario de movimiento de clientes
 
+
 Autor: Fernando Mendoza Marquez
 Fecha: 22/10/2025
 
