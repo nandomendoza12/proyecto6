@@ -2,7 +2,7 @@
 
 Análisis exploratorio de datos de una empresa de telecomunicaciones para identificar qué factores están más asociados al abandono de clientes (churn), como base para priorizar acciones de retención. El análisis combina limpieza y exploración en Python con un dashboard interactivo en Power BI.
 
-![Dashboard de retención de clientes](dashboard/dashboard_preview.png)
+![Dashboard de retención de clientes](https://github.com/nandomendoza12/proyecto6/blob/main/Imagen%20de%20dasborh%20del%20proyecto.png)
 
 ---
 
